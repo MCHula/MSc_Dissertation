@@ -15,7 +15,7 @@ This project uses R studio version 4.4.1. The following packages were used: tidy
 rstatix (Kassambara, 2023).
 
 HOW TO RUN:
-The R scripts are numbered in order, from 1 (initial_filtering) to 9 (top_20_genes). Additionally, all output results/figures are included as png files.
+The R scripts are numbered in order, from 1 (initial_filtering) to 8 (wilcoxon). Additionally, all output results/figures are included as png files.
 The .csv files contain all datasets used.
 
 METHODOLOGY & DATA PREPERATION/CLEANING:
