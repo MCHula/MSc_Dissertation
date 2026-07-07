@@ -1,6 +1,6 @@
 This repository contains a full analysis for my MSc Data Science Dissertation "Predicting sub populations in colon cancer intergrating DNA methylation, mRNA and
 miRNA expression datasets".
-The aim of this work was to predict sub populations of colon cancer, based on samples genomic data. Additonally, biomarkers that differentially express across 
+The aim of this work was to predict sub populations of colon cancer, based on samples of genomic data. Additonally, biomarkers that differentially express across 
 subpopulations were aimed to be identified. Correctly identifiying a cancers moleculer subtype can improve personalised treatment and increase our undserstanding
 for how cancers develop. Also, finding biomarkers that differentiate based on a cancers sub population is likely to improve diagnosis accuracy.
 
