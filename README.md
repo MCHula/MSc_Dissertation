@@ -7,7 +7,7 @@ for how cancers develop. Also, finding biomarkers that differentiate based on a 
 DATA:
 This project uses fully annoymised and private data, containing no revealing or personal information. Data was taken from The GDC Analysis Center 
 (Genomic Data Commons Analysis Center), specifically samples from the colon cancer cohort. The three datasets analysed are COADs of DNA methylation, 
-mRNA expression and miRNA expression profiles, in addition to clinical patient information dataset for reference.
+mRNA expression and miRNA expression profiles, in addition to a clinical patient information dataset for reference.
 
 REQUIRMENTS:
 This project uses R studio version 4.4.1. The following packages were used: tidyverse (Wickham et al, 2019), ggplot2 (Wickham, 2016), matrixStats 
