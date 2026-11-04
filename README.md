@@ -17,8 +17,7 @@ This project uses R studio version 4.4.1. The following packages were used: tidy
 rstatix (Kassambara, 2023).
 
 ### HOW TO RUN:
-The R scripts are numbered in order, from 1 (initial_filtering) to 8 (wilcoxon). Additionally, all output results/figures are included as png files.
-The .csv files contain all datasets used.
+The R scripts are numbered in order, from 1 (initial_filtering) to 8 (wilcoxon). Additionally, all output results/figures are included as png files in the figures_graphs folder. The .csv files in the data folder contain all datasets used.
 
 ### METHODOLOGY & DATA PREPERATION/CLEANING:
 Only samples that overlap in all three genomic datasets were analysed. Features where 20% or more of their values were 0 are removed. Features with any na 
